@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hola, soy Jonathan Alonso Cruz Sanchez
+# Hola, soy Jonathan Alonso Cruz Sánchez
 
-### Estudiante de Ingenieria de Sistemas | Desarrollo web, backend y soluciones moviles
+### Estudiante de Ingeniería de Sistemas | Desarrollo web, backend y soluciones móviles
 
 Construyo sistemas funcionales con enfoque en arquitectura, datos, experiencia de usuario y soluciones que resuelven necesidades reales.
 
@@ -10,17 +10,17 @@ Construyo sistemas funcionales con enfoque en arquitectura, datos, experiencia d
 
 ---
 
-## Sobre mi
+## Sobre mí
 
-Soy estudiante de quinto ano de Ingenieria de Sistemas y desarrollador enfocado en la creacion de soluciones moviles y web. Me interesa construir aplicaciones bien estructuradas, mantenibles y utiles, combinando frontend, backend, bases de datos y buenas practicas de desarrollo.
+Soy estudiante de quinto año de Ingeniería de Sistemas en la Universidad Nacional de Ingeniería (UNI), ubicado en Managua, Nicaragua. Me enfoco en la creación de soluciones móviles y web, combinando frontend, backend, bases de datos y buenas prácticas de desarrollo.
 
-He trabajado en sistemas academicos y administrativos con consumo de APIs, manejo de roles, autenticacion, reportes, formularios complejos, persistencia de datos y flujos orientados a usuarios reales.
+He trabajado en sistemas académicos y administrativos con consumo de APIs, manejo de roles, autenticación, reportes, formularios complejos, persistencia de datos y flujos orientados a usuarios reales.
 
 ---
 
-## Tecnologias y herramientas
+## Tecnologías y herramientas
 
-Stack validado a partir de proyectos reales como EVA API, EVA IES y sistemas moviles offline.
+Stack validado a partir de proyectos reales como EVA API, EVA IES y sistemas móviles offline.
 
 ### Frontend
 
@@ -44,7 +44,7 @@ Stack validado a partir de proyectos reales como EVA API, EVA IES y sistemas mov
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### Desarrollo movil
+### Desarrollo móvil
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
@@ -65,19 +65,19 @@ Stack validado a partir de proyectos reales como EVA API, EVA IES y sistemas mov
 
 ### EVA API
 
-Backend privado para un sistema de evaluaciones academicas, desarrollado con NestJS, TypeScript, Prisma y SQL Server. Incluye autenticacion, control de acceso, modulos administrativos, documentacion de endpoints y pruebas.
+Backend privado para un sistema de evaluaciones académicas, desarrollado con NestJS, TypeScript, Prisma y SQL Server. Incluye autenticación, control de acceso, módulos administrativos, documentación de endpoints y pruebas.
 
 **Stack:** NestJS, TypeScript, Prisma, SQL Server, JWT, Passport, Swagger, Jest.
 
 ### EVA IES
 
-Aplicacion web privada para gestion de evaluaciones, instituciones, evidencias, reportes y flujos administrativos. Trabaje con interfaces en Angular, componentes reutilizables, formularios, dashboards, reportes y consumo de APIs.
+Aplicación web privada para gestión de evaluaciones, instituciones, evidencias, reportes y flujos administrativos. Trabajé con interfaces en Angular, componentes reutilizables, formularios, dashboards, reportes y consumo de APIs.
 
 **Stack:** Angular, TypeScript, PrimeNG, Tailwind CSS, Chart.js, ExcelJS, Vitest.
 
 ### Stock POS
 
-Sistema POS desarrollado en Kotlin con arquitectura MVVM y funcionamiento 100% offline. Enfocado en persistencia local, gestion de inventario y operacion sin dependencia permanente de internet.
+Sistema POS desarrollado en Kotlin con arquitectura MVVM y funcionamiento 100% offline. Enfocado en persistencia local, gestión de inventario y operación sin dependencia permanente de internet.
 
 **Stack:** Kotlin, SQLite, MVVM, desarrollo offline.
 
@@ -86,21 +86,22 @@ Sistema POS desarrollado en Kotlin con arquitectura MVVM y funcionamiento 100% o
 ## Enfoques que aplico
 
 - Desarrollo de APIs REST estructuradas y documentadas.
-- Arquitecturas mantenibles para frontend, backend y movil.
-- Manejo de roles, autenticacion y permisos.
+- Arquitecturas mantenibles para frontend, backend y móvil.
+- Manejo de roles, autenticación y permisos.
 - Persistencia local y soluciones offline-first.
-- Integracion con bases de datos relacionales.
-- Construccion de interfaces practicas para usuarios reales.
+- Integración con bases de datos relacionales.
+- Construcción de interfaces prácticas para usuarios reales.
 
 ---
 
-## Estadisticas de GitHub
+## Estadísticas de GitHub
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JhonAlon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JhonAlon&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JhonAlon&layout=compact&theme=tokyonight&hide_border=true)
+![Repos por lenguaje](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JhonAlon&theme=tokyonight)
+![Commits por lenguaje](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JhonAlon&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=JhonAlon&theme=tokyonight&hide_border=true)
 
